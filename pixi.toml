@@ -1,0 +1,10 @@
+[workspace]
+authors = ["matz374 <rahmat.maulana001@umt.ac.id>"]
+channels = ['conda-forge']
+name = "belajar.mojo"
+platforms = ['linux-64']
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
